@@ -23,7 +23,7 @@
         "guzzlehttp/guzzle": "^6.5|^7.2",
         "ramsey/uuid": "^3.7|^4.0",
         "kwn/number-to-words": "^1.9",
-        "mpdf/mpdf": "^8.0"
+        "mpdf/mpdf": "^8.0.10"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
